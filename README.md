@@ -1,3 +1,5 @@
+# Git极简教程，快速入门Git--首先看必须看
+https://www.zhihu.com/column/c_1121462181237063680
 # Git的奇技淫巧:see_no_evil:
 > Git常用命令集合，Fork于[tips](https://github.com/git-tips/tips)项目
 
